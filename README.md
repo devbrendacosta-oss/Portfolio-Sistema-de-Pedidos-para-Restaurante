@@ -1,6 +1,4 @@
-<div align="center">
-
-# 🍽️ Sistema de Gerenciamento de Restaurante
+# Sistema de Gerenciamento de Restaurante
 
 **Aplicação desktop em Java Swing para cardápio, pedidos por mesa, fechamento de contas e relatórios de vendas — com arquitetura MVC e zero dependências externas.**
 
