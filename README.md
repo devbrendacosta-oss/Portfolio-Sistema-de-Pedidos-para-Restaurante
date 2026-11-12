@@ -31,7 +31,6 @@ Projeto acadêmico desenvolvido apenas com a biblioteca padrão do Java (sem fra
 - **Pedidos:** abrir pedido por mesa, adicionar itens, alterar quantidade e remover itens.
 - **Fechamento:** aplicar desconto percentual e finalizar a conta.
 - **Relatórios:** pedidos finalizados, faturamento total, ticket médio e produtos mais vendidos.
-- **Atalhos:** `Ctrl+1` a `Ctrl+4` trocam de tela.
 
 ## ✅ Validações
 
@@ -78,19 +77,20 @@ Na **IntelliJ IDEA**: abra a pasta do projeto, abra `Main.java` e clique em **Ru
 ## 🖼️ Capturas de Tela
 
 ### 💡 Tela em funcionamento (Produtos e Cardápio)
-![Tela em funcionamento](docs/screenshots/produtos.png)
+<img width="1364" height="708" alt="Captura de tela 2026-11-11 213625" src="https://github.com/user-attachments/assets/5dd30b47-0f90-4ca2-97ef-b43da015fc7c" />
 
-### 📦 Cadastro de produtos
-![Cadastro de produtos](docs/screenshots/produtos.png)
 
 ### 📝 Pedidos
-![Pedidos](docs/screenshots/pedidos.png)
+<img width="1359" height="703" alt="Captura de tela 2026-11-11 213700" src="https://github.com/user-attachments/assets/910313f7-67b2-4374-81e8-ad12f12ce227" />
 
-### 💳 Fechamento de contas
-![Fechamento de contas](docs/screenshots/fechamento.png)
+
+### 💳 Fechamento de Contas
+<img width="1355" height="709" alt="Captura de tela 2026-11-11 213650" src="https://github.com/user-attachments/assets/a3b81b6d-d36e-4a12-9cd1-0d2aac3139dd" />
+
 
 ### 📊 Relatórios
-![Relatorios](docs/screenshots/relatorios.png)
+<img width="1362" height="710" alt="Captura de tela 2026-11-11 213722" src="https://github.com/user-attachments/assets/e24d146e-3593-49ea-9bf7-0b150da06eda" />
+
 
 ## 🧪 Testes realizados
 
@@ -107,7 +107,6 @@ Na **IntelliJ IDEA**: abra a pasta do projeto, abra `Main.java` e clique em **Ru
 
 ### Print dos testes
 
-<!-- ![Testes](docs/screenshots/testes.png) -->
 
 *Adicione aqui o print dos testes sendo executados.*
 
