@@ -165,19 +165,19 @@ O sistema não utiliza APIs externas. Todas as funcionalidades são executadas l
 
 ### Print dos testes
 
-### ✅ Tela de Cadastrar produto com preço negativo - Mensagem de erro
+### Tela de Cadastrar produto com preço negativo - Mensagem de erro
 <img width="1358" height="706" alt="Captura de tela 2026-11-12 130921" src="https://github.com/user-attachments/assets/0565bb9f-02a9-4c91-9baa-69a14f51ed19" />
 
-### ✅ Tela de Cadastrar código já existente - Mensagem de erro
+### Tela de Cadastrar código já existente - Mensagem de erro
 <img width="1351" height="709" alt="Captura de tela 2026-11-12 131020" src="https://github.com/user-attachments/assets/6b1c08aa-f753-46ee-8d5a-afe43d305023" />
 
-### ✅ Adicionar item com quantidade zero - Mensagem de erro
+### Adicionar item com quantidade zero - Mensagem de erro
 <img width="1363" height="710" alt="Captura de tela 2026-11-12 131207" src="https://github.com/user-attachments/assets/f87a2576-1bbe-4fe0-88e7-4f53a3008c50" />
 
-### ✅ Aplicar desconto acima de 100% - Mensagem de erro
+### Aplicar desconto acima de 100% - Mensagem de erro
 <img width="1204" height="709" alt="Captura de tela 2026-11-12 132214" src="https://github.com/user-attachments/assets/501873eb-c991-4231-8ef7-cf9e2723dd0e" />
 
-### ✅ Alterar pedido já finalizado - Mensagem de erro
+### Alterar pedido já finalizado - Mensagem de erro
 <img width="1353" height="702" alt="Captura de tela 2026-11-12 131425" src="https://github.com/user-attachments/assets/424d73f8-0e23-4fd9-a27c-521982e50ed5" />
 
 ---
