@@ -96,6 +96,7 @@ Na **IntelliJ IDEA**: abra a pasta do projeto, abra `Main.java` e clique em **Ru
 - **Java Swing:** biblioteca utilizada para criar a interface gráfica.
 - **ArrayList:** armazenamento de dados em memória.
 - **MVC:** padrão arquitetural para organização do sistema.
+- **Maven:** é utilizado como ferramenta de build.
 
 ---
 
@@ -110,7 +111,8 @@ O sistema utiliza a arquitetura **MVC (Model-View-Controller)**, dividida em tr�
 Essa organização facilita a manutenção, a compreensão e a organização do código.
 
 ---
-## 🗄️ Modelagem do Banco de Dados
+
+## 🗂️ Modelagem dos Dados
 
 O sistema não utiliza banco de dados. Os dados são armazenados temporariamente em memória, utilizando coleções `ArrayList` do Java.
 
