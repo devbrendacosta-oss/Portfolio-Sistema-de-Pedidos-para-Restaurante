@@ -75,37 +75,22 @@ java -cp out br.com.restaurante.Main
 
 Na **IntelliJ IDEA**: abra a pasta do projeto, abra `Main.java` e clique em **Run**.
 
-## 🖼️ Capturas de tela
+## 🖼️ Capturas de Tela
 
-### Tela em funcionamento
+### 💡 Tela em funcionamento (Produtos e Cardápio)
+![Tela em funcionamento](docs/screenshots/produtos.png)
 
-<!-- Arraste a imagem para cá no editor do GitHub, ou use: ![Tela principal](docs/screenshots/tela-principal.png) -->
+### 📦 Cadastro de produtos
+![Cadastro de produtos](docs/screenshots/produtos.png)
 
-*Adicione aqui o print da aplicação em execução.*
+### 📝 Pedidos
+![Pedidos](docs/screenshots/pedidos.png)
 
-### Cadastro de produtos
+### 💳 Fechamento de contas
+![Fechamento de contas](docs/screenshots/fechamento.png)
 
-<!-- ![Produtos](docs/screenshots/produtos.png) -->
-
-*Adicione aqui o print.*
-
-### Pedidos
-
-<!-- ![Pedidos](docs/screenshots/pedidos.png) -->
-
-*Adicione aqui o print.*
-
-### Fechamento de contas
-
-<!-- ![Fechamento](docs/screenshots/fechamento.png) -->
-
-*Adicione aqui o print.*
-
-### Relatórios
-
-<!-- ![Relatórios](docs/screenshots/relatorios.png) -->
-
-*Adicione aqui o print.*
+### 📊 Relatórios
+![Relatorios](docs/screenshots/relatorios.png)
 
 ## 🧪 Testes realizados
 
